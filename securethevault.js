@@ -12,7 +12,7 @@ const message = "You have received this message because you have been chosen to 
 const num1 = 5 + 5;
 //5 plus 5 = 10
 const num2 = 20 * 2;
-//10 times 2 = 40
+//20 times 2 = 40
 const num3 = 239 % 100;
 //239 divided by 100 leaves a remainder of 39
 //created an alert that would pop up and show the message that is in a string, along with the 3 combination answers
