@@ -16,5 +16,5 @@ const num2 = 20 * 2;
 const num3 = 239 % 100;
 //239 divided by 100 leaves a remainder of 39
 //created an alert that would pop up and show the message that is in a string, along with the 3 combination answers
-alert(hey + " " + num1 + " " + num2 + " " + num3);
+alert(message + " " + num1 + " " + num2 + " " + num3);
 //When putting this into the console it worked!
